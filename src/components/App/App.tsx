@@ -7,7 +7,7 @@ interface AppType {
  const App = (props : AppType) => {
      const {name} = props;
   return (
-    <div>{name}</div>
+    <div style={{ fontSize:"20px" }}>{name}</div>
   )
 }
 
