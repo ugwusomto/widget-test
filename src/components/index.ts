@@ -1,0 +1,1 @@
+export {default as RigelP2PWidget} from "./App"
