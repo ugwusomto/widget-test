@@ -4,7 +4,7 @@
         "type": "git",
         "url": "https://github.com/ugwusomto/widget-test.git"
     },
-    "version": "1.0.0",
+    "version": "1.6.0",
     "description": "a widget for p2p dapp",
     "main": "./dist/cjs/index.js",
     "module": "./dist/esm/index.js",
