@@ -26,8 +26,10 @@
         "build-storybook": "build-storybook",
         "lint": "eslint \"{**/*,*}.{js,ts,jsx,tsx}\"",
         "prepare": "npm run build",
-        "prepublishOnly":"",
-        "test":""
+        "prepublishOnly": "",
+        "test": "",
+        "publish": "npm publish",
+        "publish-run": "npm publish --dry-run"
     },
     "author": "ugwu somto",
     "license": "MIT",
