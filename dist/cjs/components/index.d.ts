@@ -1,4 +1,2 @@
 import RigelP2PWidget from "./App";
-
-
-export { RigelP2PWidget }; 
+export { RigelP2PWidget };
